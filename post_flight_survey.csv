@@ -1,0 +1,6 @@
+Passenger_ID,Flight_Number,Satisfaction_PostFlight,Baggage_Service,Customer_Support
+101,AA101,7.0,8.0,7.0
+102,AA102,8.0,6.0,8.0
+103,AA103,7.0,,6.0
+106,AA106,5.0,4.0,
+105,AA105,,6.0,5.0

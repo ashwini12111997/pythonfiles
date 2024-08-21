@@ -1,0 +1,6 @@
+Passenger_ID,Flight_Number,Satisfaction_InFlight,Food_Service,Entertainment
+101,AA101,8.0,7.0,8.0
+102,AA102,9.0,8.0,7.0
+103,AA103,7.0,,9.0
+104,AA104,,6.0,8.0
+105,AA105,6.0,5.0,
